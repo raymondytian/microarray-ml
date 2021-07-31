@@ -1,8 +1,6 @@
 # microarray-ml
 
-All the code for my reseach paper: (Machine Learning Models and Neural Networks for Hepatocellular carcinoma Microarray Diagnosis)[https://github.com/raymondytian/microarray-ml/blob/master/research-paper/Machine_Learning_Models_and_Neural_Networks_for_Hepatocellular_carcinoma_Microarray_Diagnosis.pdf].
-
-[Research paper abstract](#abstract)
+All the code for my reseach paper: [Machine Learning Models and Neural Networks for Hepatocellular carcinoma Microarray Diagnosis](https://github.com/raymondytian/microarray-ml/blob/master/research-paper/Machine_Learning_Models_and_Neural_Networks_for_Hepatocellular_carcinoma_Microarray_Diagnosis.pdf)
 
 ## Instructions
 
